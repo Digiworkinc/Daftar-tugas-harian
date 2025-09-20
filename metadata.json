@@ -1,0 +1,5 @@
+{
+  "name": "Aplikasi Daftar Tugas Sederhana",
+  "description": "Aplikasi web yang sederhana dan elegan untuk mengelola tugas harian Anda. Tambah, hapus, dan tandai tugas sebagai selesai dengan antarmuka yang bersih dan intuitif.",
+  "requestFramePermissions": []
+}
